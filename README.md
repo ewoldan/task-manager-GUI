@@ -7,8 +7,8 @@ https://github.com/user-attachments/assets/bf9b3fd8-fad4-4dcf-bbeb-3456a185b495
 
 ## 📌 Features
 
-✅ Add new tasks with custom priority
-✏️ Edit task title, status, and priority
+✅ Add new tasks with custom priority /
+✏️ Edit task title, status, and priority /
 🟢 Mark tasks as **Completed**
 🧹 Delete all tasks with confirmation
 💾 Save tasks to an **Excel file** (`.xlsx`)
